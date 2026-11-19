@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=iamartya15&color=2563eb&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/iamartya15?style=for-the-badge&color=2563eb&logo=github" alt="Followers" />
+</p>
+
+<p align="center">
   <b>Cybersecurity Enthusiast · Backend Developer · AI/ML Explorer</b><br/>
   Final-year B.Tech student in Computer Science (AI &amp; ML) at R.R. Institute of Modern Technology, Lucknow.<br/>
   I build security tools, full-stack web apps and AI projects that actually ship — live demos over screenshots.
@@ -19,6 +24,12 @@
 - 🧪 I learn by building: every major project below is deployed and usable, not just described
 - 🌱 Currently exploring: LLM security, agentic AI systems and cloud security
 - 📫 Reach me at **iamartya15@gmail.com**
+
+## 📌 Currently
+
+- 🔭 Building **OpenCrewBot 2.0** — an autonomous multi-agent AI workforce (EDXSO AI Engineer Internship, Assignment 3)
+- 🌱 Deep-diving into **LLM security** and agentic AI systems
+- 🎯 Target 2027: **ISRO ISTRAC Graduate Apprentice** (Computer Science)
 
 ## 🚀 Featured Projects
 
@@ -64,6 +75,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamartya15&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamartya15&theme=tokyo-night" alt="Contribution activity graph" />
 </p>
 
 ## 🤝 Connect With Me
