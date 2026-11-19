@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Amartya Kushwaha 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:2563eb&height=200&section=header&text=Amartya%20Kushwaha&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+Student;Cybersecurity+Enthusiast;Backend+Developer;Building+AI+%26+Security+Projects" />
+</p>
 
 <p align="center">
   <b>Cybersecurity Enthusiast · Backend Developer · AI/ML Explorer</b><br/>
@@ -28,6 +32,10 @@
 
 ## 🧰 Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux&perline=8" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -54,6 +62,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamartya15&layout=compact&theme=tokyonight" alt="Top languages" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamartya15&theme=tokyonight" alt="GitHub streak" />
+</p>
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amartya-kushwaha-70204832b)
@@ -61,3 +73,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/iamartya15)
 
 <p align="center"><i>Open to internship opportunities in Cybersecurity, Backend Development and AI/ML.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:2563eb&height=120&section=footer" width="100%" />
